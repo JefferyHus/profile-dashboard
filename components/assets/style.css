@@ -1,0 +1,13 @@
+.application .theme--light.input-group:not(.input-group--error) .input-group__details:before, .theme--light .input-group:not(.input-group--error) .input-group__details:before{
+	background-color: transparent;
+}
+.input-group__details:after, .input-group__details:before{
+	background-color: transparent;
+}
+.input-group{
+	padding: 3px;
+}
+.input-group--text-field label{
+    top: 5px;
+    left: 6px;
+}
